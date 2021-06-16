@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://mohitmatta.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://mohitmatta.github.io" target="_blank"><img src="examples/github_page_preview.png">
   </a>
   </kbd>
 </p>
